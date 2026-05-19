@@ -1,0 +1,13 @@
+{
+  "name": "weekend-shift-rotation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:rotation": "npx tsx src/weekendRotation.test.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
